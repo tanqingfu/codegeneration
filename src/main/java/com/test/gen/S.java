@@ -32,7 +32,7 @@ public class S {
         // Package
         String projectName = genConfig.getProjectName();
         String packageName = genConfig.getPackageName();
-        String pkg = "biz";
+        String pkg = "test";
         String dir = genConfig.getIde().equals("idea") ? "./" : "../";
 
         AutoGenerator autoGenerator =

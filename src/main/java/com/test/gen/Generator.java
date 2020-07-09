@@ -23,8 +23,8 @@ public class Generator {
     // 作者
     private String author = "tqf";
     // 包信息
-    private String projectName = "xinjue-test";
-    private String packageName = "com.xinjue-test";
+    private String projectName = "Test";
+    private String packageName = "com.xinjue";
     private String vuePath = "./static-vue";
     private Boolean restStyle = true;
     private String ide = "idea"; // idea eclipse
